@@ -1,10 +1,10 @@
 
 ## Distributing-System-Project (mit 6.824 2018)
 
-### MapReduce
+__Lab 1__ MapReduce
 
-### Raft
+__Lab 2__ Raft
 
-### KV-server
+__Lab 3__ KV-server
 
-### Shard-server
+__Lab 4__ Shard-server
