@@ -1,10 +1,10 @@
 
-# Distributing-System-Project
+## Distributing-System-Project (mit 6.824 2018)
 
-## MapReduce
+### MapReduce
 
-## Raft
+### Raft
 
-## KV-server
+### KV-server
 
-## Shard-server
+### Shard-server
